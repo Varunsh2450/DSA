@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varunsh2450/DSA/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varunsh2450/DSA/tree/master/0001-two-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
@@ -40,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
