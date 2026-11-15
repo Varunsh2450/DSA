@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunsh2450/DSA/tree/master/0001-two-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunsh2450/DSA/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Counting
