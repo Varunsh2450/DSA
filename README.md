@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Varunsh2450/DSA/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Varunsh2450/DSA/tree/master/0575-distribute-candies) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Varunsh2450/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Two Pointers
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Varunsh2450/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
