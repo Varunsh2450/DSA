@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Varunsh2450/DSA/tree/master/0575-distribute-candies) |
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Varunsh2450/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Varunsh2450/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
