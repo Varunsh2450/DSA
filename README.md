@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Varunsh2450/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Varunsh2450/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Varunsh2450/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Varunsh2450/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Varunsh2450/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Varunsh2450/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
