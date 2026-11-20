@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Varunsh2450/DSA/tree/master/0058-length-of-last-word) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Varunsh2450/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Varunsh2450/DSA/tree/master/0567-permutation-in-string) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Varunsh2450/DSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
