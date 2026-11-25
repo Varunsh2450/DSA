@@ -77,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Varunsh2450/DSA/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Varunsh2450/DSA/tree/master/0371-sum-of-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Varunsh2450/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
